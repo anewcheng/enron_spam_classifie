@@ -12,6 +12,7 @@
 * **來源:** 該資料集源自 Enron 電子郵件語料庫中已標註的垃圾郵件和正常郵件集合。
 * **檔案:** 假設您已將資料整理為 `data/enron_spam_data.csv`，包含 `Message` (郵件內容) 和 `Spam/Ham` (0=Ham, 1=Spam)。
 * **任務:** 二元分類 (Binary Classification)。
+* 官方網站：http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/​
 
 ## 運行環境要求 (Requirements)
 
@@ -20,4 +21,3 @@
 ```bash
 pip install -r requirements.txt
 
-官方網站：http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/​
